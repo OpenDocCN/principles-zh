@@ -5,10 +5,9 @@
 > 本书原载于网站[知笔墨](http://zhibimo.com/)，由于该网站无法访问，特地将本书备份到 Github。
 
 + [在线阅读](https://principles.apachecn.org)
-+ [在线阅读（Gitee）](https://apachecn.gitee.io/principles-zh/)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/principles)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/principles)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/principles)
++ [PDF 格式](https://www.gitbook.com/download/pdf/book/wizardforcel/principles)
++ [EPUB 格式](https://www.gitbook.com/download/epub/book/wizardforcel/principles)
++ [MOBI 格式](https://www.gitbook.com/download/mobi/book/wizardforcel/principles)
 + [代码仓库](https://github.com/it-ebooks/principles-zh)
 
 ## 贡献和勘误
@@ -36,14 +35,6 @@
 ```
 docker pull apachecn0/principles-zh
 docker run -tid -p <port>:80 apachecn0/principles-zh
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install principles-zh
-principles-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
